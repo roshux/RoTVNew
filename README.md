@@ -1,30 +1,31 @@
-Kuroshi's XBMC Repository
-=========================
+<h3>addon releases for KODI (formerly known as XBMC)</h3>
 
-* Author:	Spencer Julian (<helloThere@spencerjulian.com>)
-* Date:		May, 2012
-* Last Update:	January 16, 2015
-* Version:	2.0.1
-* Github:	<https://github.com/kuruoujou/kuroshi-xbmc-repo>
-* Zip Download:	<http://ramblingahoge.net/kuroshi-xbmc-repo/repository.kuroshi/repository.kuroshi-2.0.1.zip>
+<strong>If you like this project please </strong>[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=X9559SH2MKQ7S)
+<br /><br />
+[download repository](https://github.com/yokrysty/krysty-xbmc/raw/master/repository.krysty-xbmc/repository.krysty-xbmc-1.0.0.zip)
+<br /><br />
 
-Hello There!
+Notes:
+- for better performance right click [here](https://github.com/yokrysty/krysty-xbmc/raw/master/advancedsettings.xml), click 'Save link as' (Google Chrome) or 'Save Linked Content As' (Opera), save the file anywhere, then move the file to userdata folder of XBMC/Kodi.
+- if there are any problems installing from the repository, shut down XBMC/Kodi and remove the Addons#.db file (where # is a number) from the userdata -> Database folder of XBMC/Kodi.
+<br />
 
-This is my XBMC Addon repository! Here I host addons that I have made or modified for XBMC, or
-that I have been asked to host. Each addon probably has it's own repository, with the exception 
-of the repository addon itself, as my belief is that one should not have to clone all of the 
-addons to only modify a single one. This git repository just serves as a collection of the 
-packages.
+Kodi userdata folder path:
+- Windows:    Right Click on Start -> Run -> type %APPDATA%\Kodi\userdata -> press Enter
+- Android:    /sdcard/Android/data/org.xbmc.kodi/files/.kodi/userdata/
+- iOS:        /private/var/mobile/Library/Preferences/Kodi/userdata/
+- Linux:      ~/.kodi/userdata/
+- Mac(1):     /Users/your_user_name/Library/Application Support/Kodi/userdata/
+- OpenELEC:   /storage/.kodi/userdata/Database/
 
-Usage
------
-Simply download the repository zip and install it, or use XBMC's repository installer plugin.
+(1)By default, Mac OS X 10.7 hides the user's Library folder, which is where Kodi's userdata folder and logs are stored. To permanently reveal the ~/Library folder, open up Terminal and run this command: <code>chflags nohidden ~/Library</code>. Note: Anytime there is an OS X update (e.g. from version 10.7.3 to 10.7.4) you will have to run this command again as the folder will be hidden again.
+<br />
 
-Questions, Comments, Concerns, Issues
--------------------------------------
-If you have any of these, go ahead and [submit an issue](https://github.com/kuruoujou/kuroshi-xbmc-repo/issues),
-or contact me directly. I would prefer you submit an issue, though.
+Kodi log file path:
+- Android:     /sdcard/Android/data/org.xbmc.kodi/files/.kodi/temp/kodi.log
+- iOS/ATV2:    /private/var/mobile/Library/Preferences/kodi.log
+- Linux:   	   $HOME/.kodi/temp/kodi.log
+- Mac OS X:	   /Users/your_user_name/Library/Logs/kodi.log
+- Windows:	   %APPDATA%\Kodi\kodi.log
 
-List of addons available
-------------------------
-* XBMAL, the XBMC MAL Updater addon, by Spencer Julian
+[![Analytics](https://ga-beacon.appspot.com/UA-46834994-1/krysty-xbmc/README.md)](https://github.com/igrigorik/ga-beacon)
