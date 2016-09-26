@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:0,TVR 1
+http://51.254.218.112:25461/live/ro5P2Xf4fu/hUcaMaQBOD/5.ts
+#EXTINF:0,TVR 2
+http://51.254.218.112:25461/live/ro5P2Xf4fu/hUcaMaQBOD/6.ts
+#EXTINF:0,Pro TV
+http://51.254.218.112:25461/live/ro5P2Xf4fu/hUcaMaQBOD/2.ts
+#EXTINF:0,Antena 1
+http://51.254.218.112:25461/live/ro5P2Xf4fu/hUcaMaQBOD/16.ts
+#EXTINF:0,Digi 24
+http://51.254.218.112:25461/live/ro5P2Xf4fu/hUcaMaQBOD/10.ts
+#EXTINF:0,Kanal D
+http://51.254.218.112:25461/live/ro5P2Xf4fu/hUcaMaQBOD/4.ts
+#EXTINF:0,Digi Sport 1
+http://51.254.218.112:25461/live/ro5P2Xf4fu/hUcaMaQBOD/71.ts
+#EXTINF:0,Digi Sport 3
+http://51.254.218.112:25461/live/ro5P2Xf4fu/hUcaMaQBOD/69.ts
+#EXTINF:0,Pro TV News
+http://51.254.218.112:25461/live/ro5P2Xf4fu/hUcaMaQBOD/17.ts
+#EXTINF:0,Realitatea TV
+http://51.254.218.112:25461/live/ro5P2Xf4fu/hUcaMaQBOD/13.ts
+#EXTINF:0,Romania TV
+http://51.254.218.112:25461/live/ro5P2Xf4fu/hUcaMaQBOD/78.ts
+#EXTINF:0,Atomic TV
+http://51.254.218.112:25461/live/ro5P2Xf4fu/hUcaMaQBOD/3.ts
+#EXTINF:0,G TV (muzica populara)
+http://51.254.218.112:25461/live/ro5P2Xf4fu/hUcaMaQBOD/15.ts
+#EXTINF:0,Apollonia TV
+http://51.254.218.112:25461/live/ro5P2Xf4fu/hUcaMaQBOD/73.ts
+#EXTINF:0,LA 1
+http://51.254.218.112:25461/live/ro5P2Xf4fu/hUcaMaQBOD/1.ts
+#EXTINF:0,laSexta
+http://51.254.218.112:25461/live/ro5P2Xf4fu/hUcaMaQBOD/12.ts
+#EXTINF:0,Mega
+http://51.254.218.112:25461/live/ro5P2Xf4fu/hUcaMaQBOD/19.ts
+#EXTINF:0,Paramount Channel
+http://51.254.218.112:25461/live/ro5P2Xf4fu/hUcaMaQBOD/81.ts
+#EXTINF:0,0 TV
+http://51.254.218.112:25461/live/ro5P2Xf4fu/hUcaMaQBOD/82.ts
+#EXTINF:0,Discovery Max
+http://51.254.218.112:25461/live/ro5P2Xf4fu/hUcaMaQBOD/83.ts
+#EXTINF:0,Hit TV
+http://51.254.218.112:25461/live/ro5P2Xf4fu/hUcaMaQBOD/11.ts
+#EXTINF:0,Real Madrid TV
+http://51.254.218.112:25461/live/ro5P2Xf4fu/hUcaMaQBOD/23.ts
+#EXTINF:0,Galicia TV
+http://51.254.218.112:25461/live/ro5P2Xf4fu/hUcaMaQBOD/80.ts
+#EXTINF:0,AMC
+http://51.254.218.112:25461/live/ro5P2Xf4fu/hUcaMaQBOD/79.ts
